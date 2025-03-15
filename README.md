@@ -102,7 +102,10 @@ The script generates the following visualizations:
 
 Example output:
 
-![Uploading image.png…]()
+![Example 1](images/example_1.jpg)
+
+![Example 2](images/example_2.jpg)
+
 
 
 ---
