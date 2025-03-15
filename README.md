@@ -100,12 +100,11 @@ The script generates the following visualizations:
 3. **Vertical Seams**: Visualization of the removed vertical seams.
 4. **Horizontal Seams**: Visualization of the removed horizontal seams.
 
-Example output:
+## Example output:
 
-![Example 1](images/example_1.jpg)
+![Example 1](example_1.jpg)
 
-![Example 2](images/example_2.jpg)
-
+![Example 2](example_2.png)
 
 
 ---
