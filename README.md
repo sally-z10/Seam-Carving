@@ -102,9 +102,9 @@ The script generates the following visualizations:
 
 ## Example output:
 
-![Example 1](example_1.jpg)
+![Example 1](https://raw.githubusercontent.com/sally-z10/Seam-Carving/main/example%201.jpg)
+![Example 2](https://raw.githubusercontent.com/sally-z10/Seam-Carving/main/example%202.png)
 
-![Example 2](example_2.png)
 
 
 ---
