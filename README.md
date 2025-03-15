@@ -102,7 +102,8 @@ The script generates the following visualizations:
 
 Example output:
 
-![Comparison Visualization](comparison_visualization.png)
+![Uploading image.png…]()
+
 
 ---
 
